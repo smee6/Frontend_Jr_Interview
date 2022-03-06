@@ -7,24 +7,43 @@
 ---
 
 ### <업데이트>
+
 2022.3.6 repo생성
 
 
 ### <면접 질문 목록>
 
+  * 기술관련
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    
+   * 일반면접
+  
 
 --- 
 
 ### <프론트엔드 관련 읽어볼만 한 자료 / 이론 >
 
-  1.Vanilla JavaScript
+  1. Vanilla JavaScript
+    -
+    -
+    -
+    -
+    -
+    -
+    -
+    
+  2. FrameWork/Library
   
-  2.FrameWork/Library
+  3. Web / HTTP
   
-  3.Web / HTTP
-  
-  4.
-  
-  5.기타 Computer Science
+  4. 기타 Computer Science
 
 
