@@ -14,7 +14,11 @@
 
 
 ### 기술 관련 질문
-
+    Q.
+    A.
+    
+    Q.
+    A.
 
 
 ### 일반 면접 질문
@@ -28,23 +32,12 @@
 
 ## <프론트엔드 관련 읽어볼만 한 자료 / 이론 >
 
-Vanilla JavaScript
-    -
-    -
-    -
-    -
-    -
+- Vanilla JavaScript
     
-FrameWork/Library
-    -
-    -
-    -
-    -
-    -
+- FrameWork/Library
     
-  
-Web / HTTP
+- Web / HTTP
 
-기타 Computer Science
+- 기타 Computer Science
 
 
