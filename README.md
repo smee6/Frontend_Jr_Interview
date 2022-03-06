@@ -34,7 +34,7 @@
 
 - Vanilla JavaScript
     
-    - 이벤트 루프란 무엇입니까? [유튜브링크](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
+    - 어쨌든 이벤트 루프는 무엇입니까? | Philip Roberts | JSConf EU [youtube](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
     -
     -
 
