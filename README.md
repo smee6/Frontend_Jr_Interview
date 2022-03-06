@@ -10,41 +10,27 @@
 
 ===
 
-### <면접 질문 목록>
+## <면접 질문 목록>
 
-  * 기술관련
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+
+### 기술 관련 질문
+
+
+
+### 일반 면접 질문
+
     
-   * 일반면접
-    -
-    -
-    -
-    -
-    
-  
 
 === 
 
 ### <프론트엔드 관련 읽어볼만 한 자료 / 이론 >
 
-  * Vanilla JavaScript
-   -
-   -
-   -
-   -
+Vanilla JavaScript
     
-  * FrameWork/Library
+FrameWork/Library
   
-  * Web / HTTP
-  
-  * 기타 Computer Science
+Web / HTTP
+
+기타 Computer Science
 
 
