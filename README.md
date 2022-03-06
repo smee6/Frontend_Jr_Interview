@@ -31,19 +31,15 @@
 
 ### <프론트엔드 관련 읽어볼만 한 자료 / 이론 >
 
-  1. Vanilla JavaScript
-    -
-    -
-    -
-    -
-    -
-    -
-    -
+  * Vanilla JavaScript
+   1. 자바스크립트 동작원리 [링크]
+   2. 
+   
     
-  2. FrameWork/Library
+  * FrameWork/Library
   
-  3. Web / HTTP
+  * Web / HTTP
   
-  4. 기타 Computer Science
+  * 기타 Computer Science
 
 
