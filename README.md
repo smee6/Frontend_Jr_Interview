@@ -33,7 +33,8 @@
 ## <프론트엔드 관련 읽어볼만 한 자료 / 이론 >
 
 - Vanilla JavaScript
-    
+    어쩌고 저쩌고
+    저쩌고 저쩌고
 - FrameWork/Library
     
 - Web / HTTP
