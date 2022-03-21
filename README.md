@@ -1,7 +1,7 @@
 ## < ⚡프론트엔드 개발자를 위한 개념과 면접 질문 프로젝트⚡ >
 
 ![image](https://user-images.githubusercontent.com/65226760/159248765-51037aec-e5e5-4bf5-8563-95ebc5f4c5cd.png)  
-
+<img src="https://user-images.githubusercontent.com/65226760/159248765-51037aec-e5e5-4bf5-8563-95ebc5f4c5cd.png" align="center">
 
 > 주니어 개발자들이 더 편하고 쉽게 공부할 수 있는 환경을 만들려고 합니다.  
 > 지식의 선순환을 믿습니다.  
