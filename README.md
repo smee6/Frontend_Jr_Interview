@@ -225,7 +225,7 @@
 ***    
 
 ## < 🌈 자료/링크 >
-### link
+### Link
 
 
 - Vanilla JavaScript
