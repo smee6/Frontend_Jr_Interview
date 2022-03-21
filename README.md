@@ -65,7 +65,7 @@
 
 ### 👨‍💻 기술 관련 질문
 ### JS
-``` javascript    
+``` python    
     - async / await 의 사용 방법  
        
     - var / let / const에 대한 설명
