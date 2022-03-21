@@ -64,7 +64,7 @@
 
 ### < 👨‍💻 기술 관련 질문 >
 --- 
-### 🐅Javascript
+### 💝Javascript
 --- 
 
 *async / await 의 사용 방법*
@@ -244,6 +244,7 @@
 <img src="https://user-images.githubusercontent.com/65226760/159249164-739bebd8-3423-4e9c-9763-1f99679ea76c.png" align="center">  
 </p>  
 
+--- 
 
 - `JavaScript`
     
