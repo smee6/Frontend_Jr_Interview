@@ -1,4 +1,4 @@
-# < ⚡프론트엔드 개발자를 위한 개념과 면접 질문 프로젝트⚡ >
+# ⚡프론트엔드 개발자를 위한 개념과 면접 질문 프로젝트⚡
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65226760/159248765-51037aec-e5e5-4bf5-8563-95ebc5f4c5cd.png" align="center">
