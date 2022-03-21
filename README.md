@@ -60,6 +60,8 @@
 ### JS
     
     - async, await 의 사용 방법
+    
+[async,await]()
    
     - var let const에 대한 설명
     
