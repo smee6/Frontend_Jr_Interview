@@ -66,13 +66,13 @@
 ### 👨‍💻 기술 관련 질문
 ### JS
     
-    - async, await 의 사용 방법  
+`async, await 의 사용 방법`  
        
-    - var let const에 대한 설명
+`var let const에 대한 설명`
     
-    - Promise에 대한 설명, Callback function과의 차이
+`Promise에 대한 설명, Callback function과의 차이`
     
-    - 이벤트 버블링과 이벤트 캡쳐링
+`이벤트 버블링과 이벤트 캡쳐링`
     
     - 자바스크립트 호이스팅(Hoisting)
     
