@@ -59,10 +59,8 @@
 ### 👨‍💻 기술 관련 질문
 ### JS
     
-    - async, await 의 사용 방법
-    
-[async,await]()
-   
+    - async, await 의 사용 방법  
+       
     - var let const에 대한 설명
     
     - Promise에 대한 설명, Callback function과의 차이
