@@ -41,7 +41,7 @@
     
     < 📒 바닐라 자바스크립트 >
     
-    - async, await 의 사용 방법
+    - async, await 의 사용 방법 [Link](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
     
     - var let const에 대한 설명
     
