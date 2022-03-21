@@ -68,7 +68,7 @@
 
        async / await 의 사용 방법
        
-` 여기에 뭔가 `
+- 여기에 
 
        var / let / const에 대한 설명
 
