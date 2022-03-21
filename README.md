@@ -66,56 +66,55 @@
 ### 👨‍💻 기술 관련 질문
 ### JS
 
-async / await 의 사용 방법
-       사용방법
+       async / await 의 사용 방법
 
-var / let / const에 대한 설명
+       var / let / const에 대한 설명
 
-Promise에 대한 설명, Callback function과의 차이
+       Promise에 대한 설명, Callback function과의 차이
 
-이벤트 버블링과 이벤트 캡쳐링
+       이벤트 버블링과 이벤트 캡쳐링
 
-자바스크립트 호이스팅(Hoisting)
+       자바스크립트 호이스팅(Hoisting)
 
-프로토타입에 대해서 설명
+       프로토타입에 대해서 설명
 
-this에 대한 설명과 apply,call,bind에 대한 섦명
+       this에 대한 설명과 apply,call,bind에 대한 섦명
 
-클로저(Closure)와 Lexical Environment
+       클로저(Closure)와 Lexical Environment
 
-실행 컨텍스트는 무엇인가? 어떻게 작동하는가. 이벤트루프와 테스크큐, 콜스택.
+       실행 컨텍스트는 무엇인가? 어떻게 작동하는가. 이벤트루프와 테스크큐, 콜스택.
 
-WebApi는 무엇인지?
+       WebApi는 무엇인지?
 
-Dom은 무엇을 말하는 것? Dom Tree에 대한 설명
+       Dom은 무엇을 말하는 것? Dom Tree에 대한 설명
 
-Call Back Hell의 해결방법
+       Call Back Hell의 해결방법
 
-Shallow copy 와 Deep copy, Call by ref / Call by value
+       Shallow copy 와 Deep copy, Call by ref / Call by value
 
-Ajax? 비동기통신은 무엇이고 왜 사용하는지?
+       Ajax? 비동기통신은 무엇이고 왜 사용하는지?
 
-SPA에 대한 설명
+       SPA에 대한 설명
 
-ES6에 오면서 변화한 점
+       ES6에 오면서 변화한 점
 
-Babel과 Webpack에 대한 간단한 설명,개념
+       Babel과 Webpack에 대한 간단한 설명,개념
 
-타 프로그래밍 랭귀지 배열과는 다른 자바스크립트 Array의 장단점 
+       타 프로그래밍 랭귀지 배열과는 다른 자바스크립트 Array의 장단점 
 
-함수형 프로그래밍이란?
+       함수형 프로그래밍이란?
 
-브라우저가 렌더링 되는 순서
+       브라우저가 렌더링 되는 순서
 
-자바스크립트 가비지 컬렉터 작동 방식,알고리즘
+       자바스크립트 가비지 컬렉터 작동 방식,알고리즘
 
-null vs undefined 무슨 차이인지?
+       null vs undefined 무슨 차이인지?
 
-익명함수, 무엇이고 왜 사용하는지
+       익명함수, 무엇이고 왜 사용하는지
 
-Scope Chaining?
+       Scope Chaining?
 
-use strict? 개념과 장단점
+       use strict? 개념과 장단점
     
 
  
