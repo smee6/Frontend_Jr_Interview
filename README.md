@@ -75,7 +75,7 @@
 [- async function](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/async_function)  
 [- await](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/await)  
 [- async와 await를 사용하여 비동기 프로그래밍을 쉽게 만들기](https://developer.mozilla.org/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Promises)  
-[- async와 await(javascript.info)](https://ko.javascript.info/async-await)  
+[- async와 await (javascript.info)](https://ko.javascript.info/async-await)  
 
 *var / let / const에 대한 설명*
 
