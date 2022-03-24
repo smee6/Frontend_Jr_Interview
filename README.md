@@ -70,7 +70,8 @@
 ### 💝Javascript
 --- 
 
-*async / await 의 사용 방법*
+*async / await 의 사용 방법*  
+[async와 await를 사용하여 비동기 프로그래밍을 쉽게 만들기](https://developer.mozilla.org/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Promises)  
 
 *var / let / const에 대한 설명*
 
