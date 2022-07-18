@@ -163,7 +163,7 @@
     
  
 --- 
-### 👨‍🌾React/라이브러리
+### 👨‍🌾Framework
 --- 
 
 *Virtual Dom을 왜 사용하는건지*
