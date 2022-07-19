@@ -174,25 +174,25 @@
 
 *상태관리 라이브러리(redux 등)에 대한 설명*
 
-*Context API에 대한 설명*
+*(React)Context API에 대한 설명*
 
-*그냥 state를 바꿔버리지 않고 굳이 useState를 쓰는 이유*
+*(React)그냥 state를 바꿔버리지 않고 굳이 useState를 쓰는 이유*
 
-*Styled Component?*
+*(React)Styled Component?*
 
-*Hooks는 무엇인가? 사용하는 이유는?*
+*(React)Hooks는 무엇인가? 사용하는 이유는?*
 
 *JSX*
     
-*리액트 라이프사이클? 각각 라이프 사이클 설명*
+*(React)리액트 라이프사이클? 각각 라이프 사이클 설명*
 
 *컴포넌트가 뭘까?*
 
-*props는 무엇인가*
+*(React)props는 무엇인가*
 
-*state와 props의 차이점*
+*(React)state와 props의 차이점*
 
-*렌더링 성능을 향상할 수 있는 방법이 있을까?*
+*(React)렌더링 성능을 향상할 수 있는 방법이 있을까?*
 
 *NextJS...?*
   
