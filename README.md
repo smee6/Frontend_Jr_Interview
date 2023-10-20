@@ -164,6 +164,8 @@
 *http header와 body에 들어가는 내용들에 대한 설명*
 
 *클라우드 스토리지에 대한 설명, 사용경험*
+
+*OSI 7계층*
     
  
 --- 
@@ -178,7 +180,19 @@
 
 *상태관리 라이브러리(redux 등)에 대한 설명*
 
+*스타일 컴포넌트,테일윈드등의 대한 설명*
+
+*컴포넌트가 뭘까?*
+
+*NextJS...?*
+
+*JSX...?*
+
+*(React)React Router에 대한 설명*
+
 *(React)Context API에 대한 설명*
+
+*(React)useEffect,useCallback,useReducer,useRef,useMemo 에 대한 설명과 각각 예시*
 
 *(React)그냥 state를 바꿔버리지 않고 굳이 useState를 쓰는 이유*
 
@@ -186,19 +200,24 @@
 
 *(React)Hooks는 무엇인가? 사용하는 이유는?*
 
-*JSX*
+*(React)렌더링 성능 향상을 위해서 고려해야 하는 사항*
     
 *(React)리액트 라이프사이클? 각각 라이프 사이클 설명*
 
-*컴포넌트가 뭘까?*
-
 *(React)props는 무엇인가*
+
+*(React)Props Drilling ...? 무엇이고 어떤 영향을 미치는지*
 
 *(React)state와 props의 차이점*
 
 *(React)렌더링 성능을 향상할 수 있는 방법이 있을까?*
 
-*NextJS...?*
+*(React)그래서 React 쓰는 이유와 진짜 장점은?*
+
+*(React)Element와 Component의 차이점?*
+
+*(React)불변성에 대한 질문, 불변성이 무엇인지*
+
   
 --- 
 ### 👨‍🔧OS  
