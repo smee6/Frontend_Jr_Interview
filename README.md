@@ -26,7 +26,6 @@
 
 2022.3.21 자료 대량 추가  
 
-
 2022.3.6 repo생성  
 
   
@@ -72,11 +71,6 @@
 --- 
 
 *async / await 의 사용 방법*  
-
-[- async function](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/async_function)  
-[- await](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/await)  
-[- async와 await를 사용하여 비동기 프로그래밍을 쉽게 만들기](https://developer.mozilla.org/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Promises)  
-[- async와 await (javascript.info)](https://ko.javascript.info/async-await)  
 
 *var / let / const에 대한 설명*
 
@@ -290,6 +284,10 @@
     - [어쨌든 이벤트 루프는 무엇입니까? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)  
     - [JavaScript로 함수형 프로그래밍 배우기 - Anjana Vakil - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY&t=161s&ab_channel=JSConf)  
     - [Ryan Seddon: So how does the browser actually render a website | JSConf EU 2015](https://www.youtube.com/watch?v=SmE4OwHztCc&ab_channel=JSConf)
+    - [- async function](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Statements/async_function)  
+    - [- await](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/await)  
+    - [- async와 await를 사용하여 비동기 프로그래밍을 쉽게 만들기](https://developer.mozilla.org/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Promises)  
+    - [- async와 await (javascript.info)](https://ko.javascript.info/async-await)  
 
 - `FrameWork`
         
