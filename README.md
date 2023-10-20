@@ -94,11 +94,13 @@
 
 *Dom은 무엇을 말하는 것? Dom Tree에 대한 설명*
 
-*Call Back Hell의 해결방법*
+*Callback Hell의 해결방법*
 
 *Shallow copy 와 Deep copy, Call by ref / Call by value?*
 
 *Ajax? 비동기통신은 무엇이고 왜 사용하는지?*
+
+*Fetch? Axios? 무엇인지*
 
 *SPA에 대한 설명*
 
