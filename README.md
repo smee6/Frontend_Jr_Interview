@@ -226,8 +226,6 @@
 
 *PWA의 개념과 사용예제*
 
-
-
   
 --- 
 ### 👨‍🔧OS  
@@ -247,9 +245,6 @@
 
 *가상 메모리의 개념과 페이징 시스템*
 
-**
-    
-  
   
 --- 
 ### 🐍CS
@@ -286,7 +281,6 @@
 *함수형 프로그래밍에 대한 설명과 예시*
 
   
-  
 --- 
 ### < 👩‍💻 일반 면접 질문 >
 --- 
@@ -301,7 +295,6 @@
 
 *본인이 생각하는 이상적인 개발자 상*
 
-    
     
 --- 
 ### < 🤴 `주니어`뿐만 아니라 `개발자`라면 꼭 봤으면 하는 자료들 👸 >
@@ -318,6 +311,9 @@
 - [await ?](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/await)  
 - [async와 await를 사용하여 비동기 프로그래밍을 쉽게 만들기](https://developer.mozilla.org/ko/docs/conflicting/Learn/JavaScript/Asynchronous/Promises)  
 - [async와 await (javascript.info)](https://ko.javascript.info/async-await)
+- [1인 기술 스타트업의 아키텍처 스텍](https://news.hada.io/topic?id=4055)
+- [디자인 패턴들](https://refactoring.guru/ko/design-patterns)
+- [러스트 가이드북(한글판)](https://rinthel.github.io/rust-lang-book-ko/)
 
 
 --- 
